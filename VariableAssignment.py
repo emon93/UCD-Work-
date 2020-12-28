@@ -15,3 +15,6 @@ result = savings*growth_multiplier**7
 
 # Print out result
 print(result)
+
+# Print type of value
+print(type(result))
