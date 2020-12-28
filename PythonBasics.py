@@ -35,3 +35,10 @@ print(100*1.1**7)
 # Sentence with conversion of integer to string
 print("I started with $" + str(savings) + " and now have $" + str(result) + ". Awesome!")
 
+# Definition of pi_string
+pi_string = "3.1415926"
+
+# Convert pi_string into float: pi_float
+float(pi_string)
+pi_float = 3.1415926
+
