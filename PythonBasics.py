@@ -32,5 +32,6 @@ print(4 ** 2)
 # How much is your $100 worth after 7 years?
 print(100*1.1**7)
 
-# Sentence with conversion of float to string
+# Sentence with conversion of integer to string
 print("I started with $" + str(savings) + " and now have $" + str(result) + ". Awesome!")
+
