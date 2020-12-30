@@ -1,7 +1,7 @@
 
 # import numpy and matplotlib packages
 import numpy as np
-from matplotlib import pyplot as plt
+from matplotlib import
 
 # arrange graph co-ordinates and plot graph
 x = np.arange(1, 15)
@@ -11,4 +11,5 @@ plt.xlabel("Game")
 plt.ylabel("Goals per Game")
 plt.plot(x, y)
 plt.show()
+
 
